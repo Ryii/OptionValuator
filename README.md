@@ -4,7 +4,7 @@
 
 As a comprehensive platform designed for advanced financial modeling, options pricing, and portfolio risk analysis, this project integrates quantitative models such as Black-Scholes, Monte Carlo Simulation, and Binomial Trees to evaluate derivatives pricing and optimize portfolio strategies. Built using Streamlit, the platform also provides tools for pricing and visualizing metrics to help traders and investors make data-driven analysis tailored for dynamic trading strategies.
 
-Project Demo: [Link to Project](https://github.com/Ryii/Options-Trading-Analysis)
+Project Demo: [options-trading-analysis.streamlit.app](https://options-trading-analysis.streamlit.app/)
 
 ---
 
@@ -41,22 +41,6 @@ Project Demo: [Link to Project](https://github.com/Ryii/Options-Trading-Analysis
 
 ---
 
-## Pages
-
-### Option Pricing
-
-![Option Pricing Screenshot](https://via.placeholder.com/800x400?text=Option+Pricing+Screenshot)
-
-### P&L Heatmap Analysis
-
-![P&L Heatmap Screenshot](https://via.placeholder.com/800x400?text=P%26L+Heatmap+Screenshot)
-
-### Risk Analysis & Portfolio Optimization
-
-![Risk Analysis Screenshot](https://via.placeholder.com/800x400?text=Risk+Analysis+Screenshot)
-
----
-
 ## Future Enhancements
 
 - Support for American option pricing.
@@ -69,4 +53,4 @@ Project Demo: [Link to Project](https://github.com/Ryii/Options-Trading-Analysis
 ## License
 
 Copyright © 2024 [Ryan Sun] (https://github.com/Ryii).<br />
-This project is [MIT](https://github.com/Ryii/Options-Trading-Analysis/blob/main/LICENSE.txt) licensed.
+This project is [MIT](https://github.com/Ryii/Options-Trading-Analysis/blob/main/LICENSE.md) licensed.
