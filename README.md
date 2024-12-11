@@ -6,8 +6,6 @@ As a comprehensive platform designed for advanced financial modeling, options pr
 
 Project Demo: [options-trading-analysis.streamlit.app](https://options-trading-analysis.streamlit.app/)
 
----
-
 ## Features
 
 - **Option Pricing Models**:
@@ -26,8 +24,6 @@ Project Demo: [options-trading-analysis.streamlit.app](https://options-trading-a
   - Provides risk metrics such as VaR (Value at Risk) and CVaR (Conditional Value at Risk).
   - Implements mean-variance optimization to maximize the Sharpe Ratio.
 
----
-
 ## Technologies
 
 - **Python Libraries**:
@@ -39,16 +35,12 @@ Project Demo: [options-trading-analysis.streamlit.app](https://options-trading-a
 
 - **Streamlit**: Interactive web-based UI for financial modeling and analysis.
 
----
-
 ## Future Enhancements
 
 - Support for American option pricing.
 - Additional strategy types (e.g., butterfly spreads, calendar spreads).
 - Incorporation of real-time market data for dynamic analysis.
 - Integration with APIs for trading and portfolio management.
-
----
 
 ## License
 
